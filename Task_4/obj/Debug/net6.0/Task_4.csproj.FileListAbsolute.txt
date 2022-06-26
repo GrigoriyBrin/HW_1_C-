@@ -1,0 +1,15 @@
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.csproj.AssemblyReference.cache
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfoInputs.cache
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfo.cs
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/grigoriybrin/Documents/HW_1/Task_4/bin/Debug/net6.0/Task_4
+/Users/grigoriybrin/Documents/HW_1/Task_4/bin/Debug/net6.0/Task_4.deps.json
+/Users/grigoriybrin/Documents/HW_1/Task_4/bin/Debug/net6.0/Task_4.runtimeconfig.json
+/Users/grigoriybrin/Documents/HW_1/Task_4/bin/Debug/net6.0/Task_4.dll
+/Users/grigoriybrin/Documents/HW_1/Task_4/bin/Debug/net6.0/Task_4.pdb
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.dll
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/refint/Task_4.dll
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.pdb
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/Task_4.genruntimeconfig.cache
+/Users/grigoriybrin/Documents/HW_1/Task_4/obj/Debug/net6.0/ref/Task_4.dll
